@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saúl Peregrina 👋
+# Hi there!, I'm Saúl Peregrina 
 ### Data Scientist  · Biomedical Data Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saul--peregrina--ds-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/saul-peregrina-ds)
@@ -11,16 +11,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-🎓 Biomedical Engineer · M.Sc. Data Science student @ Universidad de Guadalajara  
-🔬 Thesis: ML-based detection of depression & anxiety from behavioral time-series data  
-💡 Passionate about applying data science to solve real-world healthcare problems  
-🌎 Spanish (native) · English B2  
+ Biomedical Engineer · M.Sc. Data Science student @ Universidad de Guadalajara  
+ Thesis: ML-based detection of depression & anxiety from behavioral time-series data  
+ Passionate about applying data science to solve real-world healthcare problems  
+ Spanish (native) · English B2  
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -42,17 +42,17 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🩺 Diabetes EDA](https://github.com/SaulPeregrina00/diabetes-eda) | Exploratory analysis of diabetes risk factors with hypothesis-driven visualizations | pandas · seaborn · matplotlib |
+| [ Diabetes EDA](https://github.com/SaulPeregrina00/diabetes-eda) | Exploratory analysis of diabetes risk factors with hypothesis-driven visualizations | pandas · seaborn · matplotlib |
 | 🔜 Diabetes Classifier | ML classification model with scikit-learn | scikit-learn · pandas |
 | 🔜 Sales Dashboard | Interactive BI dashboard | SQL · Power BI |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
